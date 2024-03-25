@@ -16,6 +16,9 @@ import CurrencyChooser from "./components/CurrencyChooser";
 const App = () => {
   return (
     <AppProvider>
+         <style>{`
+       
+      `}</style>
       <div className="container">
         <h1 className="mt-3">Company's Budget Allocation</h1>
         <div className="row mt-3">
